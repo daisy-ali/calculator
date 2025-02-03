@@ -21,5 +21,5 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 Ali Hassan
 
 ## Live Demo
-[Play the game](https://daisy-ali.github.io/calculator/)
+[View Demo](https://daisy-ali.github.io/calculator/)
 
