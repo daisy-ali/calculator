@@ -17,15 +17,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - **JavaScript**: For adding interactivity and handling the calculator logic.
 - **Boxicons**: For icons.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository** (or download the files):
-
-   ```bash
-   git clone https://github.com/your-username/calculator-app.git
-
 ## Author
 Ali Hassan
 
